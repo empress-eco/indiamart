@@ -1,12 +1,12 @@
 <div align="center">
-  ![Project Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
-</div>
+  <img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 
 Effortlessly manage your leads with this powerful integration tool that seamlessly pulls lead data from Indiamart into your Empress system. Ideal for businesses leveraging both Indiamart and Empress, this integration ensures no potential leads slip through unnoticed while saving you time and effort. 
 
-* [Explore the Documentation](https://empress.eco/)
-* [Report a Bug](https://github.com/empress-eco/indiamart/issues)
-* [Request a Feature](https://github.com/empress-eco/indiamart/issues)
+[Explore the Documentation](https://empress.eco/) |  [Report a Bug](https://github.com/empress-eco/indiamart/issues) | [Request a Feature](https://github.com/empress-eco/indiamart/issues)
+</div>
+
 
 ## About The Project
 
